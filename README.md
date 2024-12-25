@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/24 、チェンライ近郊の綺麗なお空を集めました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/24 、日本とは違うタイの特徴を何点かまとめました !!!</marquee></span></h1>
 
 
 
@@ -128,27 +128,49 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">空画像収録エリアはこの辺り<br>GoogleMapsをそのまま埋め込みましたので、うまく使えば地図が開きます</span></h2>
+<h2><span class="yellow">今回のビニール袋を閉じる輪ゴムマジックの市場はこの辺り<br>例によってGoogleMapsをそのまま埋め込みました</span></h2>
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1734924148547!6m8!1m7!1sPjZmHOJn5rzr_HfqKi8Vtw!2m2!1d20.18138834827905!2d99.88156993877841!3f219.00076557255397!4f3.9813049621905776!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1735093046822!6m8!1m7!1s8BiEmlfsINFVyEA2x2FBCA!2m2!1d20.22443932575729!2d99.94861903097876!3f270.05588460078474!4f-0.07190411519819406!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<h2><span class="yellow">南国の夕焼けの発色や、入道雲が見事です</span></h2>
+<h2><span class="yellow">日本ではあまり見ないと思いますが、ビニール袋の閉じ方はこのやり方が当たり前</span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYO-ax-psxE?si=yL19Be4-lH37zGhZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">閉じられたビニール袋はこんな感じで液漏れしません</span></h2>
+<a href="20241224_004.JPG" target="_blank"><img src="20241224_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">警察署などの公共施設にもれなく立ってるアンテナ</span></h2>
+<a href="20241224_005.JPG" target="_blank"><img src="20241224_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">警察署には近づけなかったので、同じ物語ってた学校のアンテナをアップで撮影<br>アマチュア無線的知見からすると430Mhz近辺の電波を使った自立通信んシステムに見えます</span></h2>
 <a href="20241224_001.JPG" target="_blank"><img src="20241224_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241224_002.JPG" target="_blank"><img src="20241224_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241224_003.JPG" target="_blank"><img src="20241224_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241224_004.JPG" target="_blank"><img src="20241224_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241224_005.JPG" target="_blank"><img src="20241224_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">車を運転していて一番驚くのは、交差点の信号システム</span></h2>
 <a href="20241224_006.JPG" target="_blank"><img src="20241224_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">青になるまでのカウントダウンは普通に表示してますが、青になる順番は日本が二系統なのに対しタイは四系統<br>簡単に言うと青の間は他の交通は全部止まってるので直進も右折もスムーズにできます<br>止まっている時間が長めになるのはやむなしですが、右折が楽なのはいいですね<br>ちなみに左折は赤の間でも安全確認できればいつでもOK</span></h2>
 <a href="20241224_007.JPG" target="_blank"><img src="20241224_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一般的なショッピングモールのフードコートはすごく綺麗です</span></h2>
 <a href="20241224_008.JPG" target="_blank"><img src="20241224_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">セルフサービスで箸やスプーンはここから取りますが、左上の熱湯で殺菌してから使います</span></h2>
 <a href="20241224_009.JPG" target="_blank"><img src="20241224_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">熱湯システムがないところでは、ビニールパックされた状態で配布されてました<br>雑菌の強さが日本より一段上ですね</span></h2>
+<a href="20241224_014.JPG" target="_blank"><img src="20241224_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一般家庭の台所は屋外なので、洗い終わった食器を夕陽が照らします</span></h2>
 <a href="20241224_010.JPG" target="_blank"><img src="20241224_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241224_011.JPG" target="_blank"><img src="20241224_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241224_012.JPG" target="_blank"><img src="20241224_012.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">田舎の空気は綺麗なので、星はいっぱい見えました</span></h2>
 <a href="20241224_013.JPG" target="_blank"><img src="20241224_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241224_014.JPG" target="_blank"><img src="20241224_014.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 
