@@ -135,7 +135,20 @@ p.note { display: none; }
 
 <h2><span class="yellow">南国の夕焼けの発色や、入道雲が見事です</span></h2>
 
-
+<a href="20241224_001.JPG" target="_blank"><img src="20241224_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_002.JPG" target="_blank"><img src="20241224_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_003.JPG" target="_blank"><img src="20241224_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_004.JPG" target="_blank"><img src="20241224_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_005.JPG" target="_blank"><img src="20241224_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_006.JPG" target="_blank"><img src="20241224_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_007.JPG" target="_blank"><img src="20241224_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_008.JPG" target="_blank"><img src="20241224_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_009.JPG" target="_blank"><img src="20241224_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_010.JPG" target="_blank"><img src="20241224_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_011.JPG" target="_blank"><img src="20241224_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_012.JPG" target="_blank"><img src="20241224_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_013.JPG" target="_blank"><img src="20241224_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241224_014.JPG" target="_blank"><img src="20241224_014.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
