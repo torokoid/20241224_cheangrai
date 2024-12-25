@@ -143,7 +143,7 @@ p.note { display: none; }
 <h2><span class="yellow">警察署などの公共施設にもれなく立ってるアンテナ</span></h2>
 <a href="20241224_005.JPG" target="_blank"><img src="20241224_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">警察署には近づけなかったので、同じ物語ってた学校のアンテナをアップで撮影<br>アマチュア無線的知見からすると430Mhz近辺の電波を使った自立通信んシステムに見えます</span></h2>
+<h2><span class="yellow">警察署には近づけなかったので、同じアンテナがあった学校のものをアップで撮影<br>アマチュア無線的知見からすると430Mhz近辺の電波を使った自立通信んシステムに見えます</span></h2>
 <a href="20241224_001.JPG" target="_blank"><img src="20241224_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241224_002.JPG" target="_blank"><img src="20241224_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241224_003.JPG" target="_blank"><img src="20241224_003.JPG" alt="サンプル画像" width="900" /></a>
